@@ -218,7 +218,6 @@ class OrderScreenCommon extends StatelessWidget {
 
 
                                 SizedBox(width: 16,),
-
                                 Expanded(
                                   child: Column(crossAxisAlignment: CrossAxisAlignment.start,children: [
                                     SmallText(text: "456 Elm Street, Springfield",fontWeight: FontWeight.w600,),
